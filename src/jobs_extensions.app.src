@@ -1,0 +1,1 @@
+{application, jobs_extensions, [ {vsn, "0.0.1"}]}.
